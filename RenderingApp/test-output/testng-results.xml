@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10024" started-at="2017-04-06T05:00:23Z" finished-at="2017-04-06T05:00:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10024" started-at="2017-04-06T05:00:23Z" finished-at="2017-04-06T05:00:33Z">
+      <class name="com.smi.RenderingApp.RenderingApp.Login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.smi.RenderingApp.RenderingApp.Login@721e0f4f]" name="setUp" is-config="true" duration-ms="5432" started-at="2017-04-05T22:00:23Z" finished-at="2017-04-05T22:00:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginWithValidCredential()[pri:0, instance:com.smi.RenderingApp.RenderingApp.Login@721e0f4f]" name="LoginWithValidCredential" duration-ms="4581" started-at="2017-04-05T22:00:28Z" finished-at="2017-04-05T22:00:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredential -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.smi.RenderingApp.RenderingApp.Login@721e0f4f]" name="tearDown" is-config="true" duration-ms="1" started-at="2017-04-05T22:00:33Z" finished-at="2017-04-05T22:00:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.smi.RenderingApp.RenderingApp.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
